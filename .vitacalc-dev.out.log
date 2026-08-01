@@ -1,0 +1,21 @@
+
+> vitacalc@0.1.0 dev
+> vinext dev --port 3002
+
+
+  vinext dev  (Vite 8.0.13)
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3002[22m/[39m
+  [32m➜[39m  [1mDebug[22m:   [2m[33mhttp://localhost:[1m3002[22m[2m/__debug[39m[22m
+ GET / 200 in 2.2s (compile: 1785626485.4s, render: 2.0s)
+ GET / 200 in 186ms (compile: 1785626485.4s, render: 83ms)
+[2m02:22:50[22m [36m[1m[vite][22m[39m [34m[2m(rsc)[22m[39m [32mhmr update [39m[2m/app/globals.css[22m
+[2m02:22:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/globals.css?direct[22m
+[2m02:22:53[22m [36m[1m[vite][22m[39m [34m[2m(rsc)[22m[39m [32mhmr update [39m[2m/app/globals.css[22m
+[2m02:22:53[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/globals.css?direct[22m
+[2m02:22:55[22m [36m[1m[vite][22m[39m [34m[2m(rsc)[22m[39m [32mhmr update [39m[2m/app/globals.css[22m
+[2m02:22:55[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/globals.css?direct[22m
+ GET / 200 in 540ms (compile: 1785626485.7s, render: 98ms)
+ GET / 200 in 166ms (compile: 1785626485.4s, render: 77ms)
+ GET /?_rsc 200 in 107ms (compile: 1785626485.4s, render: 0ms)
+ GET / 200 in 190ms (compile: 1785626485.4s, render: 86ms)
